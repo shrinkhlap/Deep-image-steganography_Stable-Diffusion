@@ -26,8 +26,8 @@
 Clone the repository:
 
 ```bash
-git clone https://github.com/shrinkhlap/deep-image-steganography.git
-cd deep-image-steganography
+git clone https://github.com/shrinkhlap/Deep-image-steganography_Stable-Diffusion.git
+cd Deep-image-steganography_Stable-Diffusion
 ```
 
 Install dependencies:

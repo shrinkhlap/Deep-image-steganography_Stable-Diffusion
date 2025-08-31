@@ -117,7 +117,3 @@ print(f"SSIM: {ssim_score:.4f}, MSE: {mse_score:.4f}")
 This project is licensed under the **Apache License 2.0**.
 
 
-
-
-
-Do you want me to do that?
